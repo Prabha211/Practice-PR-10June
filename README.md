@@ -5,9 +5,9 @@ alll the best
 
 Tools: 
 
-Jenkins
-Kubernetes
-AWS
+Jenkins\n
+Kubernetes\n
+AWS\n
 Terraform
 Git
 prometheus
